@@ -1,4 +1,4 @@
-<img src="https://i.redd.it/n8agw6z2smyb1.gif" height="400" />
+<img src="https://i.redd.it/n8agw6z2smyb1.gif" />
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
